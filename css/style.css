@@ -1,0 +1,172 @@
+/**************************BODY*******************************/
+
+hr{
+width: 300px;
+border-color:  #eccd22;
+border-width: 5px 0px 0px;
+border-style: dotted;
+}
+body{
+background-color: white;
+
+}
+
+/*************************HEADER******************************/
+
+#pirateking{
+color: #eccd22;
+
+margin-left: 400px;
+margin-bottom: -10px;
+font-size: 100px;
+}
+
+nav{
+border-radius: 10px;
+background-color: #eccd22;
+font-weight: bold;
+font-size: 20px;
+height: 40px;
+padding-left: 10px;
+}
+.topbg{
+background-color: #2f2e2c;
+margin-top: -45px;
+}
+
+.a{
+padding: 0px 0px 0px 150px;
+}
+.a:hover{
+background-color: orange;
+border-radius: 20px;
+color: #ac0a23;
+display:  span;
+}
+
+/****************************SEARCH**********************/
+
+
+#searchhead{
+color: #eccd22;
+font-size:  45px;
+width: 100px;
+margin-bottom: -2px;
+}
+#searchpane{
+width: 350px;
+height: 30px;
+border-radius: 20px;
+padding:10px;
+border-color: #eccd22;
+border-width: 2px;
+
+}
+
+#go{
+font-weight: bold;
+border-radius: 20px;
+border-color: #eccd22;
+padding: 5px;
+width: 70px;
+height: 30px; 
+}
+#go:hover{
+background-color: #eccd22 ;
+border-color: #eccd22;
+}
+#searchpane:hover{
+border-color: #eccd22;
+}
+#searchhead, #searchpane{
+margin-left: 400px;
+}
+/*********************************CONTENT*********************************/
+
+.list{
+color:  #eccd22;
+background-color: #2f2e2c;
+border-color: #eccd22;
+border-width: 5px;
+padding: 0px 0px 0px 20px;
+border-radius: 5px;
+width: 100%;
+border-style: double;
+}
+.songli:hover{
+border-color: #eccd22;
+border-radius: 5px;
+border-style: double;
+border-width: 4px 0px 4px 0px;
+font-weight: bold;
+color: #21c3bb;
+
+}
+.category{
+font-weight: bold;
+
+}
+
+
+.catli:hover{
+background-color: #eccd22;
+border-radius: 5px;
+width: 170px;
+border-style: double;
+border-color: yellow;
+font-weight: bold;
+
+}
+.song{
+display: table-row ;
+text-decoration:  none;
+font-weight:  bold;
+color: #e48d1c;
+font-size: 20px;
+margin-left: 50px;
+}
+.song:hover{
+font-weight: bold;
+color: #21c3bb;
+
+}
+ul{
+text-decoration: none;
+display: inline;
+padding: 0px 0px 6px 0px;
+}
+
+
+/*****************************foot*****************/
+#fh{
+height: 30px;
+width: 100%;
+background-color: #2f2e2c;
+border-radius: 5px;
+border-width: 5px;
+border-style: double;
+border-color: #eecd22;
+}
+
+.foot{
+font-weight: bold;
+color: #eccd22;
+width: 400px;
+margin-left: 400px;
+
+}
+
+/**********************MEDIA*******************/
+img{
+width: 150px;
+margin-left: 590px;
+
+}
+h3{
+margin-left: 450px;
+}
+
+audio{
+margin-left: 500px;
+
+}
